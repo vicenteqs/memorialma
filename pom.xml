@@ -77,7 +77,7 @@
 				<artifactId>tomcat7-maven-plugin</artifactId>
 				<version>2.2</version>
 				<configuration>
-					<url>http://178.62.217.41:8181/manager/text</url>
+					<url>http://localhost:8181/manager/text</url>
 					<server>TomcatServer</server>
 					<path>/memorial</path>
 				</configuration>
